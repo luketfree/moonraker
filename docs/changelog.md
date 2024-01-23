@@ -31,6 +31,7 @@ The format is based on [Keep a Changelog].
   lost during a print).  These jobs will report their status as `interrupted`.
 - **build**: Added support for optional speedup dependencies `uvloop` and `msgspec`
 - **update_manager**: Add support for "zipped" application updates
+- **machine**: Add support for system peripheral queries
 
 ### Fixed
 
